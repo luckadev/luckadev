@@ -6,8 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlucaspro/)
 
 - I'm currently working on my portfolio.🧑‍💻
-- I'm studying nowadays Firebase and Styled Components.☕ <br/>
-👋 Current Stack: React.JS(for SPA's), Javascript, SASS, HTML, CSS, Bootstrap, Firebase.
+- I'm studying nowadays Firebase and Styled Components.☕
+- 👋 Current Stack: React.JS(for SPA's), Javascript, SASS, HTML, CSS, Bootstrap, Firebase.
 
 ![DevLucasPro GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucaspro&show_icons=true&theme=radical)
 

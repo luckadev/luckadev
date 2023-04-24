@@ -5,6 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devcodepro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlucaspro/)
 
+- I'm currently working on my portfolio.🧑‍💻
+- I'm studying Firebase and Styled Components.
+
 ![DevLucasPro GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucaspro&show_icons=true&theme=radical)
 
 ## Technologies i'm used to using more:
@@ -20,7 +23,8 @@
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div><br/>
 
-## Frontend software developer & UI Designer.
+## Frontend software developer based in Brazil.
+- My portfolio: https://lucasdeveloper.netlify.app
 - I make programming content on instagram: 💜 https://www.instagram.com/devcodepro
 - My Links: 🧑‍💻 https://devlucaslinks.netlify.com
 - Where i provide frontend challenges for beginners: ☕ https://devfrontchallenges.netlify.app/

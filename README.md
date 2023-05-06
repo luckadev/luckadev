@@ -9,8 +9,6 @@
 - I'm studying nowadays Firebase and Styled Components.☕
 - 👋 Current Stack: React.JS(for SPA's), Javascript, SASS, HTML, CSS, Bootstrap, Firebase.
 
-![DevLucasPro GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucaspro&show_icons=true&theme=radical)
-
 ## My Current Stack:
 
 <div>
@@ -28,6 +26,8 @@
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/>
+
+![DevLucasPro GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucaspro&show_icons=true&theme=radical)
 
 ## Frontend software developer based in Brazil.
 - My portfolio: https://lucasdeveloper.netlify.app

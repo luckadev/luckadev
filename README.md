@@ -7,7 +7,6 @@
 
 - I'm currently working on my portfolio.🧑‍💻
 - I'm studying nowadays Firebase and Styled Components.☕
-- 👋 Current Stack: React.JS(for SPA's), Javascript, SASS, HTML, CSS, Bootstrap, Firebase.
 
 ## My Current Stack:
 

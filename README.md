@@ -8,6 +8,13 @@
 - I'm currently working on my portfolio.🧑‍💻
 - I'm studying nowadays Node.JS and MySQL.☕
 
+## What i want to learn:
+
+- Typescript
+- Next.js
+- Cypress
+- Radix UI
+
 ## My Current Stack:
 
 <div>

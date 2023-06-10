@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlucaspro/)
 
 - I'm currently working on my portfolio.🧑‍💻
-- I'm studying nowadays Firebase and Styled Components.☕
+- I'm studying nowadays Node.JS and MySQL.☕
 
 ## My Current Stack:
 

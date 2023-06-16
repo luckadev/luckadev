@@ -37,8 +37,6 @@
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-![DevLucasPro GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucaspro&show_icons=true&theme=radical)
-
 ## Frontend software developer based in Brazil.
 - My portfolio: https://lucasdeveloper.netlify.app
 - I make programming content on instagram: 💜 https://www.instagram.com/devcodepro

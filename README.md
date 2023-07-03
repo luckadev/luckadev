@@ -2,7 +2,7 @@
 
 ![](./assets/github-banner.png)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devcodepro)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ribeiroo.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlucaspro/)
 
 - I'm currently working on my portfolio.🧑‍💻
@@ -39,6 +39,5 @@
 
 ## Frontend software developer based in Brazil.
 - My portfolio: https://lucasdeveloper.netlify.app
-- I make programming content on instagram: 💜 https://www.instagram.com/devcodepro
+- I make programming content on instagram: 💜 https://www.instagram.com/ribeiroo.dev
 - My Links: 🧑‍💻 https://devlucaslinks.netlify.com
-- Where i provide frontend challenges for beginners: ☕ https://devfrontchallenges.netlify.app/

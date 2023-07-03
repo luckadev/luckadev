@@ -10,7 +10,6 @@
 
 ## What i want to learn:
 
-- Typescript
 - Next.js
 - Cypress
 - Radix UI

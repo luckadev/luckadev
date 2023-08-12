@@ -1,4 +1,4 @@
-![](./assets/capa-github.png)
+![](./assets/capa-linkedin.png)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://lucasdeveloper.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ribeiroo.dev)

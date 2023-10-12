@@ -1,8 +1,8 @@
-![](./assets/capa-linkedin.png)
+![](./assets/Banner.png)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://lucasdeveloper.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ribeiroo.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlucaspro/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luckadev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luckadev/)
 
 
 - I'm currently working on my portfolio.🧑‍💻
@@ -49,6 +49,6 @@
 </div><br/>
 
 ## Frontend software developer based in Brazil.
-- My portfolio: https://lucasdeveloper.netlify.app
-- I make programming content on instagram: 💜 https://www.instagram.com/ribeiroo.dev
-- My Links: 🧑‍💻 https://devlucaslinks.netlify.com
+- Portfolio: https://lucasdeveloper.netlify.app
+- Content Creator on instagram: 💜 https://www.instagram.com/luckadev
+- My Links (More): 🧑‍💻 https://luckalinks.netlify.com
